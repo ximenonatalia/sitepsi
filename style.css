@@ -257,6 +257,12 @@ footer .footer_column p {
 	cursor: pointer;
 	text-decoration: none;
 }
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
 .copyright {
 	text-align: center;
 	padding-top: 20px;
