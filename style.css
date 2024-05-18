@@ -279,13 +279,11 @@ footer .footer_column p {
 	text-decoration: none;
 	
 }
-.a:link{
+a:link{
 	text-decoration: none;
-	color: #efeded;
 }
-.a:hover{
+a:hover{
 	text-decoration: none;
-	color: #b35529;
 }
 .copyright {
 	text-align: center;
