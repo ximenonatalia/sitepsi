@@ -241,6 +241,7 @@ footer .footer_column p {
 	padding-left: 10px;
 	font-family: Stilu;
 	text-align: center;
+	text-decoration: none;
 	vertical-align: middle;
 	border-radius: 0px;
 	text-transform: uppercase;
@@ -254,7 +255,8 @@ footer .footer_column p {
 	background-color: #efeded;
 	color: #b35529;
 	cursor: pointer;
-	text-decoration: none;
+	
+	
 }
 .a:link{
 	text-decoration: none;
