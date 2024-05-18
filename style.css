@@ -74,7 +74,7 @@ ul li:hover a {
 }
 /* Hero Section */
 .hero {
-	background-image: linear-gradient(#181e2a,#181e2a00), url("https://github.com/ximenonatalia/sitepsi/blob/main/Moodboard.png");
+	background-image: linear-gradient(#181e2a,#181e2a00), url("Moodboard.png");
 	background-size: 100%;
 	padding-top: 150px;
 	padding-bottom: 150px;
