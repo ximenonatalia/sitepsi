@@ -259,9 +259,11 @@ footer .footer_column p {
 }
 .a:link{
 	text-decoration: none;
+	color: #efeded;
 }
 .a:hover{
 	text-decoration: none;
+	color: #b35529;
 }
 .copyright {
 	text-align: center;
