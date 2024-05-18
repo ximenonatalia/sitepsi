@@ -284,6 +284,7 @@ a:link{
 }
 a:hover{
 	text-decoration: none;
+	color: #b35529;
 }
 .copyright {
 	text-align: center;
