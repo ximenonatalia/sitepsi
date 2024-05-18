@@ -25,7 +25,7 @@ header {
 	
 }
 .logo {
-	font-family: Stilu, "Stilu Bold", "Stilu Light", "Stilu SemiBold";
+	font-family: basic-sans, sans-serif;
 	color: #efeded;
 	font-weight: bold;
 	text-align: undefined;
@@ -63,7 +63,7 @@ ul li:hover a {
 	color: #DBB174;
 }
 .hero_header {
-	font-family: Stilu, "Stilu Bold", "Stilu Light", "Stilu SemiBold";
+	font-family: basic-sans, sans-serif;
 	color: #EFEDED;
 	text-align: center;
 	margin-top: 0px;
@@ -89,7 +89,7 @@ ul li:hover a {
 	margin-top: 4px;
 	font-weight: lighter;
 	text-transform: uppercase;
-	font-family: "Bodoni MT";
+	font-family: bodoni-urw, serif;
 	letter-spacing: 1px;
 }
 /* About Section */
@@ -97,7 +97,7 @@ ul li:hover a {
 	width: 65%;
 	align-content: center;
 	text-align: left;
-	font-family: Stilu;
+	font-family: basic-sans, sans-serif;
 	font-weight: lighter;
 	line-height: 25px;
 	float: left;
@@ -164,7 +164,7 @@ ul li:hover a {
 .parallax {
 	color: #EFEDED;
 	text-align: right;
-	font-family: Stilu, "Stilu Bold", "Stilu Light", "Stilu SemiBold";
+	font-family: basic-sans, sans-serif;
 	padding-right: 100px;
 	padding-top: 110px;
 	letter-spacing: 2px;
@@ -173,7 +173,7 @@ ul li:hover a {
 .parallax_description {
 	color: #EFEDED;
 	text-align: right;
-	font-family: Stilu, "Stilu Bold", "Stilu Light", "Stilu SemiBold";
+	font-family: basic-sans, sans-serif;
 	padding-right: 100px;
 	width: 30%;
 	float: right;
@@ -202,7 +202,7 @@ footer .footer_column h3 {
 	text-align: center;
 }
 footer .footer_column p {
-	font-family: Stilu;
+	font-family: basic-sans, sans-serif;
 	color: #12566c;
 	background-color: #EFEDED;
 }
@@ -239,7 +239,7 @@ footer .footer_column p {
 	padding-right: 10px;
 	padding-bottom: 20px;
 	padding-left: 10px;
-	font-family: Stilu;
+	font-family: basic-sans, sans-serif;
 	text-align: center;
 	text-decoration: none;
 	vertical-align: middle;
@@ -261,7 +261,7 @@ footer .footer_column p {
 	padding-right: 10px;
 	padding-bottom: 20px;
 	padding-left: 10px;
-	font-family: Stilu;
+        font-family: basic-sans, sans-serif;
 	text-align: center;
 	text-decoration: none;
 	vertical-align: middle;
@@ -291,7 +291,7 @@ a:hover{
 	padding-bottom: 20px;
 	background-color: #181e2a;
 	color: #efeded;
-	font-family: "bodoni mt";
+	font-family: bodoni-urw, serif;
 	text-transform: uppercase;
 	font-weight: lighter;
 	letter-spacing: 0px;
