@@ -1,4 +1,4 @@
-r@charset "UTF-8";
+@charset "UTF-8";
 /* Body */
 body {
 	background-color: #efeded;
@@ -105,16 +105,12 @@ ul li:hover a {
 	padding-right: 20px;
 	color: #12566C;
 }
-.foto {
-	width: auto;
-	height: 100%;
-	max-height: 200px;
-}
 .about {
 	padding-left: 25px;
 	padding-right: 25px;
 	padding-top: 75px;
 	padding-bottom: 75px;
+	display: flex;align-content: center;
 	background-color: #EFEDED;
 	margin-top: 0px;
 	margin-bottom: 0px;
@@ -209,6 +205,15 @@ footer .footer_column p {
 	font-family: basic-sans, sans-serif;
 	color: #12566c;
 	background-color: #EFEDED;
+}
+.foto {
+	display: flex; 
+	align-content: center;
+	margin-left: 6%;
+	width: auto;
+	height: 100%;
+	max-height: 200px;
+}
 .cards {
 	width: 100%;
 	height: auto;
@@ -343,8 +348,6 @@ nav ul li {
 	padding-right: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
-	float: none;
-
 }
 .thumbnail {
 	width: 100%;
