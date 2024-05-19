@@ -110,7 +110,8 @@ ul li:hover a {
 	padding-right: 25px;
 	padding-top: 75px;
 	padding-bottom: 75px;
-	display: flex;align-content: center;
+	display: flex;
+	align-items: center;
 	background-color: #EFEDED;
 	margin-top: 0px;
 	margin-bottom: 0px;
