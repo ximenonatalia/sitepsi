@@ -437,6 +437,9 @@ nav ul li {
 	padding-top: 8px;
 	padding-bottom: 8px;
 }
+.about {
+	display:block;
+}
 .text_column {
 	width: 100%;
 	text-align: left;
