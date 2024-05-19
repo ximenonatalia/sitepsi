@@ -281,7 +281,7 @@ footer .footer_column p {
 a:-webkit-any-link {
     color: #efeded;
     cursor: pointer;
-    text-decoration: underline;
+    text-decoration: none;
 }
 a:link{
 	text-decoration: none;
