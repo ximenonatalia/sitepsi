@@ -96,7 +96,7 @@ ul li:hover a {
 .text_column {
 	width: 65%;
 	align-content: center;
-	text-align: center;
+	text-align: left;
 	font-family: basic-sans, sans-serif;
 	font-weight: lighter;
 	line-height: 25px;
