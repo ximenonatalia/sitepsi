@@ -342,7 +342,7 @@ nav ul li {
 	text-align: center;
 }
 .about {
-	display:block;
+	display:grid;
 	justify-items:center;
 }
 .text_column {
@@ -439,7 +439,7 @@ nav ul li {
 	padding-bottom: 8px;
 }
 .about {
-	display:block;
+	display:grid;
 	justify-items:center;
 }
 .text_column {
