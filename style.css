@@ -1,4 +1,4 @@
-@charset "UTF-8";
+r@charset "UTF-8";
 /* Body */
 body {
 	background-color: #efeded;
@@ -96,7 +96,7 @@ ul li:hover a {
 .text_column {
 	width: 65%;
 	align-content: center;
-	text-align: left;
+	text-align: center;
 	font-family: basic-sans, sans-serif;
 	font-weight: lighter;
 	line-height: 25px;
