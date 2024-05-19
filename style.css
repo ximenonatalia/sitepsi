@@ -209,7 +209,6 @@ footer .footer_column p {
 .foto {
 	display: flex; 
 	align-content: center;
-	margin-left: 6%;
 	width: auto;
 	height: 100%;
 	max-height: 200px;
