@@ -210,7 +210,6 @@ footer .footer_column p {
 .foto {
 	display: block; 
 	align-content: center;
-	margin-left: 6%;
 	width: auto;
 	height: 100%;
 	max-height: 200px;
@@ -344,6 +343,7 @@ nav ul li {
 }
 .about {
 	display:block;
+	justify-items:center;
 }
 .text_column {
 	width: 100%;
@@ -440,6 +440,7 @@ nav ul li {
 }
 .about {
 	display:block;
+	justify-items:center;
 }
 .text_column {
 	width: 100%;
