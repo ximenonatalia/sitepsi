@@ -208,6 +208,7 @@ footer .footer_column p {
 }
 .foto {
 	display: flex; 
+	float: center;
 	align-content: center;
 	width: auto;
 	height: 100%;
