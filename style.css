@@ -341,6 +341,9 @@ nav ul li {
 	width: 100%;
 	text-align: center;
 }
+.about {
+	display:block;
+}
 .text_column {
 	width: 100%;
 	text-align: justify;
