@@ -207,7 +207,7 @@ footer .footer_column p {
 	background-color: #EFEDED;
 }
 .foto {
-	display: flex; 
+	display: block; 
 	align-content: center;
 	margin-left: 6%;
 	width: auto;
