@@ -349,12 +349,6 @@ nav ul li {
 	padding-bottom: 0px;
 	padding-left: 0px;
 }
-.foto {
-	display: flex; 
-	align-content: center;
-	width: 100%;
-	max-height: 200px;
-}
 .thumbnail {
 	width: 100%;
 }
